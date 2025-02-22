@@ -1,0 +1,6 @@
+@ReqnrollOutputExample_HostAddress = http://localhost:5037
+
+GET {{ReqnrollOutputExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
